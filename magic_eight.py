@@ -45,3 +45,4 @@ if __name__ == "__main__":
 			print(pick_answer())
 			break
 # edited by isaacyan
+# edited by wowwh, combine all
