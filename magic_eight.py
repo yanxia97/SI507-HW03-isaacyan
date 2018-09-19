@@ -42,5 +42,6 @@ if __name__ == "__main__":
 		if question[-1]!='?':
 			print("I’m sorry, I can only answer questions")
 		else:
+			print(pick_answer())
 			break
 # edited by isaacyan
